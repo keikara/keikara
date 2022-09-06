@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/28060f83-537f-4ab3-8547-f697798d036b.svg)](https://wakatime.com/@28060f83-537f-4ab3-8547-f697798d036b)
 <!--
 **keikara/keikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
