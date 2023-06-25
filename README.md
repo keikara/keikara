@@ -9,13 +9,11 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vs code" src="https://api.iconify.design/devicon:vscode.svg?height=32" /></a>
 <a href="https://cloudflare.com/" target="_blank"><img align="left" alt="cloudflare" src="https://api.iconify.design/devicon:cloudflare.svg?height=32" /></a>
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="flutter" src="https://api.iconify.design/devicon:flutter.svg?height=32" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img align="left" alt="spring boot" src="https://api.iconify.design/devicon:spring.svg?height=32" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="nodejs" src="https://api.iconify.design/devicon:nodejs.svg?height=32" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="docker" src="https://api.iconify.design/logos:docker-icon.svg?height=32" /></a>
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="postman" src="https://api.iconify.design/devicon:postman.svg?height=32" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" src="https://api.iconify.design/devicon:git.svg?height=32" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img align="left" alt="jira" src="https://api.iconify.design/devicon:jira.svg?height=32" /></a>
-
 <br />
 
 ---
