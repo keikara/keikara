@@ -1,7 +1,6 @@
 
 #### Skills:
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="dart" src="https://api.iconify.design/logos:dart.svg?height=32" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="rust" src="https://api.iconify.design/skill-icons:rust.svg?height=32" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img align="left" alt="kotlin" src="https://api.iconify.design/logos:kotlin-icon.svg?height=32" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescript" src="https://api.iconify.design/devicon:typescript.svg?height=32" /></a>
 <br />
