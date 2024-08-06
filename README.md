@@ -22,5 +22,5 @@
   <img src="https://wakatime.com/badge/user/28060f83-537f-4ab3-8547-f697798d036b.svg"/>
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=keikara&layout=compact&hide_border=false&bg_color=FFF381&title_color=383838&text_color=383838&custom_title=Coding%20Activity%20Breakdown%20(Last%207%20Days)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=keikara&layout=compact&hide_border=false&bg_color=FFF381&title_color=383838&text_color=383838"/>
  </div>
